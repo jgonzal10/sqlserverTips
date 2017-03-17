@@ -1,0 +1,4 @@
+SQL procedure using cursor to send a message to all users from a system when the user dont
+select the user group. The user paramenter can be null or the list of ids separated
+by a , example '1,2,3,45,69'
+By JGO 2017
